@@ -1,0 +1,9 @@
+torch 
+torchvision
+unsloth
+conllu
+datasets
+tqdm
+transformers
+together
+rouge_score

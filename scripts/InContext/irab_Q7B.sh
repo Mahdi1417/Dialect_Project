@@ -1,0 +1,1 @@
+python zs_inference.py --task irab --model Q7B --prompt_lang ar --load_4bit 1 --save_path ./zs_preds

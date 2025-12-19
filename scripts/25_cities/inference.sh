@@ -1,0 +1,2 @@
+python zs_inference.py --task dialect --model Qwen --prompt_lang ar --prompt_type ins --save_path ./25_cities_zs
+python zs_inference.py --task dialecttomsa --model Qwen --prompt_lang ar --prompt_type int --save_path ./25_cities_zs
