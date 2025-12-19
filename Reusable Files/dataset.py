@@ -14,7 +14,7 @@ from conllu import parse_incr
 
 class FT_Dataset:
     def __init__(self, EOS_TOKEN, split="train", shots=0, logger = None, test_mode=False, shuffle=False):
-        login(token="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")
+        login(token="hf_Key")
 
         assert shots in [0, 1, 3, 5, 10], "Shots should be one of 0, 1, 3, 5, 10"
         self.shots = shots

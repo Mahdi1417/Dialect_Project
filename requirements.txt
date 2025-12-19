@@ -1,5 +1,5 @@
-torch 
-torchvision
+#torch 
+#torchvision
 unsloth
 conllu
 datasets
@@ -7,3 +7,11 @@ tqdm
 transformers
 together
 rouge_score
+
+#unsloth==2025.12.7
+#conllu==6.0.0
+#datasets==4.3.0
+#tqdm==4.67.1
+#transformers==4.57.3
+#together==1.5.33
+#rouge_score==0.1.2
